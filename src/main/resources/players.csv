@@ -1,4 +1,4 @@
-"Name", "Team", "Position", "Height", "Weight", "Age"
+name,team,position,height,weight,age
 "Adam Donachie", "BAL", "Catcher", 74, 180, 22.99
 "Paul Bako", "BAL", "Catcher", 74, 215, 34.69
 "Ramon Hernandez", "BAL", "Catcher", 72, 210, 30.78
@@ -639,7 +639,6 @@
 "Bronson Arroyo", "CIN", "Starting Pitcher", 77, 190, 30.01
 "Eric Milton", "CIN", "Starting Pitcher", 75, 208, 31.57
 "Aaron Harang", "CIN", "Starting Pitcher", 79, 240, 28.81
-"Kirk Saarloos", "CIN", "Starting Pitcher", 72, "", 27.77
 "Elizardo Ramirez", "CIN", "Starting Pitcher", 72, 180, 24.09
 "Todd Coffey", "CIN", "Relief Pitcher", 77, 230, 26.47
 "Brian Shackelford", "CIN", "Relief Pitcher", 73, 195, 30.5
@@ -1033,4 +1032,3 @@
 "Chris Narveson", "STL", "Relief Pitcher", 75, 205, 25.19
 "Randy Keisler", "STL", "Relief Pitcher", 75, 190, 31.01
 "Josh Kinney", "STL", "Relief Pitcher", 73, 195, 27.92
-"

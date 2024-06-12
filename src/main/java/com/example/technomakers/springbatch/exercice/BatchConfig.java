@@ -19,10 +19,14 @@ public class BatchConfig {
 
     @Autowired
     Job studentJob;
+    @Autowired
+    Job playerJob;
 
 
     public void runJob() throws Exception {
         jobLauncher.run(studentJob, new JobParametersBuilder().toJobParameters());
+        jobLauncher.run(playerJob, new JobParametersBuilder().toJobParameters());
+
     }
     
 }
